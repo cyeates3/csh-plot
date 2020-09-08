@@ -1,12 +1,12 @@
 {
   "nodes": [
     {
-      "id": 1,
+      "id": "1",
       "name": "A",
       "babe": "love"
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "B",
       "babe": "aramis"
     },
@@ -46,13 +46,13 @@
   "links": [
 
     {
-      "source": 1,
-      "target": 2,
+      "source": "1",
+      "target": "2",
       "descrip": "wassup"
     },
     {
-      "source": 1,
-      "target": 5
+      "source": "1",
+      "target": "5"
     },
     {
       "source": 1,
